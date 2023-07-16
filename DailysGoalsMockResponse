@@ -12,6 +12,12 @@
       "type": "distanceTraveled",
       "totalGoalAmount": 20000,
       "rewardAmount": 200
+    },
+    {
+      "id": 3,
+      "type": "distanceTraveled",
+      "totalGoalAmount": 5000,
+      "rewardAmount": 200
     }
   ],
 }
