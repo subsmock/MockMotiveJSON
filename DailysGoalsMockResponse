@@ -1,0 +1,17 @@
+{
+  "id": "123456789",
+  "goals": [
+    {
+      "id": 1,
+      "type": "steps",
+      "totalGoalAmount": 5000,
+      "rewardAmount": 500
+    },
+    {
+      "id": 2,
+      "type": "distanceTraveled",
+      "totalGoalAmount": 20000,
+      "rewardAmount": 200
+    }
+  ],
+}
