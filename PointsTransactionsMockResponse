@@ -6,7 +6,7 @@
       "name": "John Doe",
       "date": "2023-07-22",
       "amount": 100,
-      "type": "gain",
+      "type": "earned",
       "status": "completed"
     },
     {
@@ -14,7 +14,7 @@
       "name": "Jane Smith",
       "date": "2023-07-21",
       "amount": 50,
-      "type": "gain",
+      "type": "earned",
       "status": "completed"
     },
     {
@@ -22,7 +22,7 @@
       "name": "Bob Johnson",
       "date": "2023-07-20",
       "amount": 30,
-      "type": "loss",
+      "type": "spent",
       "status": "pending"
     }
   ]
