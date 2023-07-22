@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "name": "Walking+Running Goal",
+      "name": "Walking + Running Goal",
       "date": "2023-07-21",
       "amount": 50,
       "type": "earned",
@@ -19,9 +19,9 @@
     },
     {
       "id": "3",
-      "name": "Health Survey",
+      "name": "Apple Watch Payment",
       "date": "2023-07-20",
-      "amount": 30,
+      "amount": 1000,
       "type": "spent",
       "status": "pending"
     }
