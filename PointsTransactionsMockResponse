@@ -3,7 +3,7 @@
   "pointsTransactions": [
     {
       "id": "1",
-      "name": "John Doe",
+      "name": "Steps Goal",
       "date": "2023-07-22",
       "amount": 100,
       "type": "earned",
@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "name": "Jane Smith",
+      "name": "Walking+Running Goal",
       "date": "2023-07-21",
       "amount": 50,
       "type": "earned",
@@ -19,7 +19,7 @@
     },
     {
       "id": "3",
-      "name": "Bob Johnson",
+      "name": "Health Survey",
       "date": "2023-07-20",
       "amount": 30,
       "type": "spent",
