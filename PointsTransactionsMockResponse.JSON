@@ -1,1 +1,29 @@
-
+{
+  "id": "123456789",
+  "pointsTransactions": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "date": "2023-07-22",
+      "amount": 100,
+      "type": "gain",
+      "status": "completed"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "date": "2023-07-21",
+      "amount": 50,
+      "type": "gain",
+      "status": "completed"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "date": "2023-07-20",
+      "amount": 30,
+      "type": "loss",
+      "status": "pending"
+    }
+  ]
+}
