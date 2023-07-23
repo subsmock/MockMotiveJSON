@@ -1,5 +1,6 @@
 {
   "id": "123456789",
+  "totalPoints": 5000,
   "pointsTransactions": [
     {
       "id": "4",
