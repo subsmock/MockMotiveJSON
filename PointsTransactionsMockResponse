@@ -2,28 +2,140 @@
   "id": "123456789",
   "pointsTransactions": [
     {
-      "id": "1",
+      "id": "4",
+      "name": "Gym Membership Payment",
+      "date": "2023-07-19",
+      "amount": 500,
+      "type": "spent",
+      "status": "completed"
+    },
+    {
+      "id": "5",
+      "name": "Yoga Class Reward",
+      "date": "2023-07-18",
+      "amount": 200,
+      "type": "earned",
+      "status": "completed"
+    },
+    {
+      "id": "6",
+      "name": "Fitness Tracker Bonus",
+      "date": "2023-07-17",
+      "amount": 150,
+      "type": "earned",
+      "status": "completed"
+    },
+    {
+      "id": "7",
+      "name": "Healthy Snacks Purchase",
+      "date": "2023-07-16",
+      "amount": 30,
+      "type": "spent",
+      "status": "completed"
+    },
+    {
+      "id": "8",
       "name": "Steps Goal",
-      "date": "2023-07-22",
+      "date": "2023-07-15",
       "amount": 100,
       "type": "earned",
       "status": "completed"
     },
     {
-      "id": "2",
-      "name": "Walking + Running Goal",
-      "date": "2023-07-21",
-      "amount": 50,
+      "id": "9",
+      "name": "Running Milestone Reward",
+      "date": "2023-07-14",
+      "amount": 75,
       "type": "earned",
       "status": "completed"
     },
     {
-      "id": "3",
-      "name": "Apple Watch Payment",
-      "date": "2023-07-20",
-      "amount": 1000,
+      "id": "10",
+      "name": "Gym Session",
+      "date": "2023-07-13",
+      "amount": 50,
       "type": "spent",
-      "status": "pending"
+      "status": "completed"
+    },
+    {
+      "id": "11",
+      "name": "Cycling Challenge",
+      "date": "2023-07-12",
+      "amount": 100,
+      "type": "earned",
+      "status": "completed"
+    },
+    {
+      "id": "12",
+      "name": "Health Seminar Attendance",
+      "date": "2023-07-11",
+      "amount": 80,
+      "type": "earned",
+      "status": "completed"
+    },
+    {
+      "id": "13",
+      "name": "Nutritionist Consultation",
+      "date": "2023-07-10",
+      "amount": 250,
+      "type": "spent",
+      "status": "completed"
+    },
+    {
+      "id": "14",
+      "name": "Steps Goal",
+      "date": "2023-07-09",
+      "amount": 100,
+      "type": "earned",
+      "status": "completed"
+    },
+    {
+      "id": "15",
+      "name": "Swimming Achievement Reward",
+      "date": "2023-07-08",
+      "amount": 120,
+      "type": "earned",
+      "status": "completed"
+    },
+    {
+      "id": "16",
+      "name": "Healthy Recipe eBook Purchase",
+      "date": "2023-07-07",
+      "amount": 25,
+      "type": "spent",
+      "status": "completed"
+    },
+    {
+      "id": "17",
+      "name": "Steps Goal",
+      "date": "2023-07-06",
+      "amount": 100,
+      "type": "earned",
+      "status": "completed"
+    },
+    {
+      "id": "18",
+      "name": "Walking Challenge",
+      "date": "2023-07-05",
+      "amount": 80,
+      "type": "earned",
+      "status": "completed"
+    },
+    {
+      "id": "19",
+      "name": "Gym Session",
+      "date": "2023-07-04",
+      "amount": 50,
+      "type": "spent",
+      "status": "completed"
+    },
+    {
+      "id": "20",
+      "name": "Weekly Steps Streak Bonus",
+      "date": "2023-07-03",
+      "amount": 150,
+      "type": "earned",
+      "status": "completed"
     }
   ]
 }
